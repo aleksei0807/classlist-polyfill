@@ -1,5 +1,5 @@
 {
-  "name": "classlist-polyfill",
+  "name": "classlist-poly",
   "version": "1.2.0",
   "description": "Cross-browser JavaScript shim that fully implements element.classList (referenced on MDN)",
   "main": "src/index.js",
